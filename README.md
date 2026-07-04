@@ -1,2 +1,2 @@
 # Hackatton-Musical
-Projet d'un siteweb de recommendation musical réalisé en utilisant Html/Css/JavaScript
+Création d'un site web de recommandations musicales basées sur les émotions de l'utilisateur, développé en HTML, CSS et JavaScript.
